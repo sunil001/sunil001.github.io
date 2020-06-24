@@ -1,6 +1,7 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "homepage": "https://sunil001.github.io/MyProfile",
   "icons": [
     {
       "src": "favicon.ico",
